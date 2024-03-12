@@ -1,0 +1,10 @@
+name: plotly_app
+title:
+username: loic-nazaries
+account: loic-nazaries
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11473446
+bundleId: 8364804
+url: https://loic-nazaries.shinyapps.io/plotly_app/
+version: 1
